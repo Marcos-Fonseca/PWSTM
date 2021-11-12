@@ -46,7 +46,8 @@ h4 {
 
 #imagem {
 	width: 250px;
-	margin-left: 550px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #curiosidade {
